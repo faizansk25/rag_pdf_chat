@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-google-genai==2.0.1
+langchain-openai==0.2.1
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+tiktoken
+langchain-groq==0.2.0
+rapidocr-onnxruntime
+pymupdf
+onnxruntime
